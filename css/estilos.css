@@ -1,1 +1,4 @@
-input[type="Button"]{width: 100px; padding: 16px; background-color: #A8D9E4; text-align: center; border-radius: 10px;}
+input[type="Button"]{width: 100px; padding: 16px; background-color: #A8D9E4; text-align: center; border-radius: 15px;}
+input[type="text"]{background-color: lightgreen; border-radius: 5px; text-align: center;}
+.centrado{text-align: center; padding: 400px;}
+.centrado2{text-align: center;}
