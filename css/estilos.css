@@ -2,5 +2,5 @@ input[type="Button"]{width: 100px; padding: 16px; background-color: #A8D9E4; tex
 input[type="text"]{background-color: lightgreen; border-radius: 5px; text-align: center;}
 .centrado{text-align: center; padding: 400px;}
 .centrado2{text-align: center;}
-#button{background-color: blueviolet; width: 20%; border: none; border-radius: 10px;color: blueviolet;}
-.bordeNegro{font-weight: bold; background-color: blueviolet; margin-top: 10px; width: 20%;}
+
+.bordeNegro{background-color: blueviolet; margin: 40px; width: 20%; color: antiquewhite; border-radius: 10px; text-align: center;}

@@ -9,7 +9,6 @@ boton.addEventListener("click",function(event){
     resultado.appendChild(nuevoid);
     nuevoid.classList.add("bordeNegro");
 
-    let contenido=document.getElementById("resultado")
-    contenido.appendChild(nuevoid)
+
 
 })
